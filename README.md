@@ -30,5 +30,3 @@ Certifications:
 Google Cybersecurity Certificate
 CS50 Harvard CyberSecurity Foundational
 
-
-Knowledge: Documentation covering key security concepts required by MSP/MSSP environments, including RPO/RTO definitions, Vulnerability Management cycles, and SIEM logic creation (e.g., Sigma rules).
