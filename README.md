@@ -27,6 +27,6 @@ Content: Analysis sections within each project that map the observed threat acti
 
 Certifications & Knowledge Base
 Certifications:
-Google Cybersecurity Certificate
+Google Cybersecurity Certificate,
 CS50 Harvard CyberSecurity Foundational
 
